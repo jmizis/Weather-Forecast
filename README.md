@@ -14,6 +14,8 @@ For the api you were given the site to go on: https://openweathermap.org/api/one
 ## Github 
 
 On Github I was able to create a new repository where I was able to push all my work to. Before even starting the challenge I had to clone the new repository to the my computer first. I cloned it using my gitbash, from there on any code I worked on visual studio code I was able to save it and push it back to my repository. Once all my work was done I did a final push and created a deployed site. 
+![Screenshot (8)](https://user-images.githubusercontent.com/107073756/189022795-b32794c2-d220-4ae5-bbcb-cc7e6d7d0532.png)
+
 
 
 
